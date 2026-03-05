@@ -149,4 +149,4 @@ MIT License
 
 ---
 
-⭐ If you like this project, please **star the repository** and support development.
+⭐ If you like this project, please **star the repository** and support development
